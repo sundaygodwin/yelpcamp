@@ -8,7 +8,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    position: relative;
 }
 .cover-container{
     height: 100%;
@@ -16,12 +15,6 @@ body{
     text-align: center;
     justify-content: center;
     color: whitesmoke;
-}
-.maintext{
-    width: 50vw;
-    position: absolute;
-    top: 50%;
-    left: 25%;
 }
 .lead{
     font-size: 1rem;
